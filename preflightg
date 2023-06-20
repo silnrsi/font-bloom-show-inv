@@ -1,0 +1,5 @@
+#!/bin/sh
+# For use after editing the font with Glyphs
+
+psfglyphs2ufo source/BloomShowInv.glyphs source
+psfnormalize -p checkfix=fix source/BloomShowInv-Regular.ufo

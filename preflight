@@ -1,0 +1,3 @@
+#!/bin/sh
+
+psfnormalize -p checkfix=fix source/BloomShowInv-Regular.ufo
