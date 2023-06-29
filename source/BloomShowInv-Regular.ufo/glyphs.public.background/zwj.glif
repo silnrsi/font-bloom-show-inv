@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwj" format="2">
+  <advance width="784"/>
+  <outline>
+    <contour>
+      <point x="569" y="494" type="line"/>
+      <point x="696" y="494" type="line"/>
+      <point x="215" y="1006" type="line"/>
+      <point x="88" y="1006" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="430" type="line"/>
+      <point x="440" y="430" type="line"/>
+      <point x="440" y="558" type="line"/>
+      <point x="344" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="494" type="line"/>
+      <point x="215" y="494" type="line"/>
+      <point x="696" y="1006" type="line"/>
+      <point x="569" y="1006" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="948" type="line"/>
+      <point x="440" y="948" type="line"/>
+      <point x="440" y="1076" type="line"/>
+      <point x="344" y="1076" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="1536" type="line"/>
+      <point x="286" y="1146" type="line"/>
+      <point x="24" y="1341" type="line"/>
+    </contour>
+  </outline>
+</glyph>

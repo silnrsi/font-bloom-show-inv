@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hairsp" format="2">
+  <advance width="320"/>
+  <outline>
+    <contour>
+      <point x="48" y="-192" type="line"/>
+      <point x="272" y="-192" type="line"/>
+      <point x="272" y="-96" type="line"/>
+      <point x="48" y="-96" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="264" type="line"/>
+      <point x="120" y="264" type="line"/>
+      <point x="120" y="704" type="line"/>
+      <point x="56" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="458" type="line"/>
+      <point x="224" y="458" type="line"/>
+      <point x="224" y="518" type="line"/>
+      <point x="96" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="264" type="line"/>
+      <point x="264" y="264" type="line"/>
+      <point x="264" y="704" type="line"/>
+      <point x="200" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="-144" type="line"/>
+      <point x="128" y="-144" type="line"/>
+      <point x="128" y="128" type="line"/>
+      <point x="48" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="-144" type="line"/>
+      <point x="272" y="-144" type="line"/>
+      <point x="272" y="128" type="line"/>
+      <point x="192" y="128" type="line"/>
+    </contour>
+  </outline>
+</glyph>

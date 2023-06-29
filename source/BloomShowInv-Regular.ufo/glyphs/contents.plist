@@ -6,11 +6,75 @@
   <string>_notdef.glif</string>
   <key>.null</key>
   <string>_null.glif</string>
-  <key>CR</key>
-  <string>C_R_.glif</string>
-  <key>exclam</key>
-  <string>exclam.glif</string>
+  <key>_dot</key>
+  <string>_dot.glif</string>
+  <key>_ring</key>
+  <string>_ring.glif</string>
+  <key>_sizeguide</key>
+  <string>_sizeguide.glif</string>
+  <key>_sizeuc</key>
+  <string>_sizeuc.glif</string>
+  <key>_spacebottom</key>
+  <string>_spacebottom.glif</string>
+  <key>_spaceside</key>
+  <string>_spaceside.glif</string>
+  <key>_triangledown</key>
+  <string>_triangledown.glif</string>
+  <key>_triangleup</key>
+  <string>_triangleup.glif</string>
+  <key>_wordjoineralt</key>
+  <string>_wordjoineralt.glif</string>
+  <key>_zwnjalt</key>
+  <string>_zwnjalt.glif</string>
+  <key>_zwpart</key>
+  <string>_zwpart.glif</string>
+  <key>cgj</key>
+  <string>cgj.glif</string>
+  <key>emquad</key>
+  <string>emquad.glif</string>
+  <key>emsp</key>
+  <string>emsp.glif</string>
+  <key>enquad</key>
+  <string>enquad.glif</string>
+  <key>ensp</key>
+  <string>ensp.glif</string>
+  <key>figuresp</key>
+  <string>figuresp.glif</string>
+  <key>fourpmsp</key>
+  <string>fourpmsp.glif</string>
+  <key>hairsp</key>
+  <string>hairsp.glif</string>
+  <key>lrmark</key>
+  <string>lrmark.glif</string>
+  <key>nbsp</key>
+  <string>nbsp.glif</string>
+  <key>nnbsp</key>
+  <string>nnbsp.glif</string>
+  <key>nonmarkingreturn</key>
+  <string>nonmarkingreturn.glif</string>
+  <key>punctsp</key>
+  <string>punctsp.glif</string>
+  <key>rlmark</key>
+  <string>rlmark.glif</string>
+  <key>sixpmsp</key>
+  <string>sixpmsp.glif</string>
+  <key>softhyphen</key>
+  <string>softhyphen.glif</string>
   <key>space</key>
   <string>space.glif</string>
+  <key>tab</key>
+  <string>tab.glif</string>
+  <key>thinsp</key>
+  <string>thinsp.glif</string>
+  <key>threepmsp</key>
+  <string>threepmsp.glif</string>
+  <key>wordjoiner</key>
+  <string>wordjoiner.glif</string>
+  <key>zwj</key>
+  <string>zwj.glif</string>
+  <key>zwnj</key>
+  <string>zwnj.glif</string>
+  <key>zwsp</key>
+  <string>zwsp.glif</string>
 </dict>
 </plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rlmark" format="2">
+  <advance width="468"/>
+  <outline>
+    <component base="_zwpart" xOffset="228"/>
+    <component base="_zwpart" xOffset="228" yOffset="390"/>
+    <component base="_zwpart" xOffset="228" yOffset="780"/>
+    <component base="_zwpart" xOffset="228" yOffset="1170"/>
+    <contour>
+      <point x="372" y="1274" type="line"/>
+      <point x="372" y="1792" type="line"/>
+      <point x="40" y="1533" type="line"/>
+    </contour>
+  </outline>
+</glyph>
