@@ -1,4 +1,4 @@
-# Bloom Show Inv
+# Bloom Show Inv [![Build Status](https://build.palaso.org/app/rest/builds/buildType:BloomShowInv/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_BloomShowInv&guest=1)
 
 Bloom Show Inv is an open font used by Bloom (https://bloomlibrary.org/) for showing invisible characters in text. Font sources are in UFO3 format.
 
