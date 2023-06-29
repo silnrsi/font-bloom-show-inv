@@ -99,4 +99,4 @@ $RECYCLE.BIN/
 *$py.class
 __pycache__/
 
-BloomShowInv.glyphs
+source/*.glyphs
