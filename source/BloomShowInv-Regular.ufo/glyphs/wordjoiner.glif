@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wordjoiner" format="2">
   <advance width="640"/>
-  <unicode hex="2060"/>
   <outline>
     <component base="_zwpart" xOffset="224"/>
     <component base="_zwpart" xOffset="224" yOffset="390"/>
