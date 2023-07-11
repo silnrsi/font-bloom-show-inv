@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emquad" format="2">
   <advance width="2048"/>
+  <unicode hex="E085"/>
   <outline>
     <component base="_spaceside"/>
     <component base="_spaceside" xOffset="1856"/>

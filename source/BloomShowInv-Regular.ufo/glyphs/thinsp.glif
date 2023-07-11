@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thinsp" format="2">
   <advance width="392"/>
+  <unicode hex="E08D"/>
   <outline>
     <component base="_spaceside"/>
     <component base="_spaceside" xOffset="200"/>

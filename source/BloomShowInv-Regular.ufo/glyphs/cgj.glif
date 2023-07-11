@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cgj" format="2">
   <advance width="619"/>
+  <unicode hex="E07A"/>
   <outline>
     <component base="_zwpart" xOffset="214" yOffset="390"/>
     <component base="_zwpart" xOffset="214" yOffset="780"/>

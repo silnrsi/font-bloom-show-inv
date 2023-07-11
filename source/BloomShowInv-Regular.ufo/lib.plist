@@ -44,22 +44,81 @@
   <array>
     <string>.notdef</string>
     <string>.null</string>
-    <string>CR</string>
+    <string>nonmarkingreturn</string>
     <string>space</string>
-    <string>exclam</string>
+    <string>nbsp</string>
+    <string>nnbsp</string>
+    <string>enquad</string>
+    <string>emquad</string>
+    <string>ensp</string>
+    <string>emsp</string>
+    <string>threepmsp</string>
+    <string>fourpmsp</string>
+    <string>sixpmsp</string>
+    <string>figuresp</string>
+    <string>punctsp</string>
+    <string>thinsp</string>
+    <string>hairsp</string>
+    <string>softhyphen</string>
+    <string>zwsp</string>
+    <string>zwnj</string>
+    <string>zwnj_ios</string>
+    <string>zwnj_android</string>
+    <string>zwj</string>
+    <string>wordjoiner</string>
+    <string>cgj</string>
+    <string>lrmark</string>
+    <string>rlmark</string>
+    <string>tab</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
-    <key>.null</key>
-    <string>NULL</string>
+    <key>cgj</key>
+    <string>uniE07A</string>
     <key>emquad</key>
-    <string>uni2001</string>
+    <string>uniE085</string>
+    <key>emsp</key>
+    <string>uniE087</string>
     <key>enquad</key>
-    <string>uni2000</string>
+    <string>uniE084</string>
+    <key>ensp</key>
+    <string>uniE086</string>
+    <key>figuresp</key>
+    <string>uniE08B</string>
+    <key>fourpmsp</key>
+    <string>uniE089</string>
+    <key>hairsp</key>
+    <string>uniE08E</string>
+    <key>lrmark</key>
+    <string>uniE090</string>
+    <key>nbsp</key>
+    <string>uniE082</string>
+    <key>nnbsp</key>
+    <string>uniE083</string>
+    <key>punctsp</key>
+    <string>uniE08C</string>
+    <key>rlmark</key>
+    <string>uniE091</string>
+    <key>sixpmsp</key>
+    <string>uniE08A</string>
     <key>softhyphen</key>
-    <string>uni00AD</string>
+    <string>uniE0A1</string>
+    <key>space</key>
+    <string>uniE080</string>
+    <key>tab</key>
+    <string>uniE0A2</string>
+    <key>thinsp</key>
+    <string>uniE08D</string>
+    <key>threepmsp</key>
+    <string>uniE088</string>
     <key>wordjoiner</key>
-    <string>uni2060</string>
+    <string>uniE078</string>
+    <key>zwj</key>
+    <string>uniE077</string>
+    <key>zwnj</key>
+    <string>uniE079</string>
+    <key>zwsp</key>
+    <string>uniE081</string>
   </dict>
 </dict>
 </plist>

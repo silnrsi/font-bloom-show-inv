@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="figuresp" format="2">
   <advance width="800"/>
+  <unicode hex="E08B"/>
   <outline>
     <component base="_spaceside"/>
     <component base="_spaceside" xOffset="608"/>

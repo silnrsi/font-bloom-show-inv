@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zwj" format="2">
   <advance width="784"/>
+  <unicode hex="E077"/>
   <outline>
     <component base="_zwpart" xOffset="296"/>
     <component base="_zwpart" xOffset="296" yOffset="390"/>

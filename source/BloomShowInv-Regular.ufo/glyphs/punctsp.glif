@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="punctsp" format="2">
   <advance width="704"/>
+  <unicode hex="E08C"/>
   <outline>
     <component base="_spaceside"/>
     <component base="_spaceside" xOffset="512"/>

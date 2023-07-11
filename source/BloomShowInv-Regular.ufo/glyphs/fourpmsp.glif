@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fourpmsp" format="2">
   <advance width="512"/>
+  <unicode hex="E089"/>
   <outline>
     <component base="_spaceside"/>
     <component base="_spaceside" xOffset="320"/>

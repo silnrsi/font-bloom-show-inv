@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lrmark" format="2">
   <advance width="468"/>
+  <unicode hex="E090"/>
   <outline>
     <component base="_zwpart" xOffset="48"/>
     <component base="_zwpart" xOffset="48" yOffset="390"/>
