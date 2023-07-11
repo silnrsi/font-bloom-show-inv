@@ -12,6 +12,9 @@ for showing invisible characters in text. Font sources are in UFO3 format.
 
 ChangeLog
 
+11 July 2023 (SIL font development team) Bloom Show Inv version 2.000
+- Revised version with more glyphs and all encoded in the PUA
+
 5 July 2023 (SIL font development team) Bloom Show Inv version 1.000
 - Initial version with only nbspace and nnbsp encoded
 
