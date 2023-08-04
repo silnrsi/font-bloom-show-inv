@@ -5,7 +5,20 @@
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3203</string>
+  <string>3207</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+  <array>
+    <string>/_ringlarge</string>
+    <string>/_sizeasc/_sizedesc/_sizeuc/zwnj/_sizeuc/zwj/_sizeuc/wordjoiner/_sizeuc/zwsp/_sizeuc/lrmark/_sizeuc/rlmark/_sizeuc</string>
+    <string>/_sizeguide</string>
+    <string>/_sizedesc</string>
+    <string>/zwnj</string>
+    <string>/_sizeuc/space/_sizeuc/nbsp/_sizeuc/nnbsp/_sizeuc/thinsp/_sizeuc/hairsp/_sizeuc/ensp/_sizeuc/emsp/_sizeuc/_sizeasc/_sizedesc</string>
+    <string>/_arrowup</string>
+    <string>/_dot/_dotsmall/hairsp</string>
+    <string>/_sizeuc</string>
+    <string>/_sizeuc/nbsp/_sizeuc/nnbsp/_sizeuc</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>

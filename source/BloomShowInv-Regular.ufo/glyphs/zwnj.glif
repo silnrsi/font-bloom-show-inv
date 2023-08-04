@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zwnj" format="2">
-  <advance width="1096"/>
   <unicode hex="E079"/>
   <outline>
-    <component base="_zwpart" xOffset="452"/>
-    <component base="_zwpart" xOffset="452" yOffset="390"/>
-    <component base="_zwpart" xOffset="452" yOffset="780"/>
-    <component base="_zwpart" xOffset="452" yOffset="1560"/>
-    <component base="_zwpart" xOffset="452" yOffset="1950"/>
-    <component base="_zwpart" xOffset="452" yOffset="1170"/>
-    <contour>
-      <point x="372" y="491" type="line"/>
-      <point x="372" y="1009" type="line"/>
-      <point x="40" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="724" y="491" type="line"/>
-      <point x="1056" y="750" type="line"/>
-      <point x="724" y="1009" type="line"/>
-    </contour>
+    <component base="_zwsolid"/>
+    <component base="_triangleleft" xOffset="-16"/>
+    <component base="_triangleright" xOffset="16"/>
   </outline>
 </glyph>

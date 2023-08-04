@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lrmark" format="2">
-  <advance width="468"/>
   <unicode hex="E090"/>
   <outline>
-    <component base="_zwpart" xOffset="48"/>
-    <component base="_zwpart" xOffset="48" yOffset="390"/>
-    <component base="_zwpart" xOffset="48" yOffset="780"/>
-    <component base="_zwpart" xOffset="48" yOffset="1170"/>
+    <component base="_triangleright" xOffset="64"/>
     <contour>
-      <point x="96" y="1274" type="line"/>
-      <point x="428" y="1533" type="line"/>
-      <point x="96" y="1792" type="line"/>
+      <point x="-48" y="-460" type="line"/>
+      <point x="48" y="-460" type="line"/>
+      <point x="48" y="1696" type="line"/>
+      <point x="-48" y="1696" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1600" type="line"/>
+      <point x="288" y="1600" type="line"/>
+      <point x="288" y="1696" type="line"/>
+      <point x="0" y="1696" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
 </glyph>

@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Bloom Show Inv</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/07/11 13:41:09</string>
+  <string>2023/08/04 15:05:29</string>
   <key>openTypeHheaAscender</key>
   <integer>2000</integer>
   <key>openTypeHheaDescender</key>
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Bloom Show Inv Regular: 2023</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.000</string>
+  <string>Version 3.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -155,7 +155,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
-  <integer>2</integer>
+  <integer>3</integer>
   <key>versionMinor</key>
   <integer>0</integer>
   <key>xHeight</key>
